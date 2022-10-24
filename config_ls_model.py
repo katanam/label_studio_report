@@ -6,5 +6,5 @@ from pydantic import BaseModel
 
 
 class Model(BaseModel):
-    source_path: Path
-    target_path: Path
+    source_folder_path: Path
+    target_file_path: Path
