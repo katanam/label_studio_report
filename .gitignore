@@ -1,5 +1,9 @@
+*.pyc
+/.idea/
+/__pycache__/
+/config_ls_txt.json
+/config_ls_xlsx.json
+/data/*
 /result.txt
 /result.xlsx
-/config_ls_xlsx.json
-/config_ls_txt.json
-/data/*
+/tests/tests_data/output/result.txt
